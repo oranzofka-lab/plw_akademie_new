@@ -18,7 +18,7 @@ const divide = (a, b) => {
   console.log(`${a} / ${b} = ${result}`);
 };
 
-add(14, 41);
-subtract(174, 32);
-multiply(47, 50);
-divide(125, 7);
+add(15, 48);
+subtract(98, 41);
+multiply(54, 30);
+divide(88, 6);
